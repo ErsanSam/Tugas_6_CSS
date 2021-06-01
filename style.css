@@ -1,0 +1,21 @@
+*{
+  margin:5px;
+  margin-bottom: 20px;
+}
+p{
+  background-color: cyan;
+  overflow: scroll;
+  width: 350px;
+  height:100px;
+  padding: 10px;
+}
+.satu{
+  border: 13px dotted red;
+}
+.dua{
+  border: 5px solid green;
+}
+.tiga{
+  border: 20px dashed blue;
+
+}
